@@ -1,0 +1,5 @@
+Lesnikova	p-12
+Sokolnikova	p-13
+Sharapova	p-12
+Strelzov	p-14
+Sviaznikov	p-11
